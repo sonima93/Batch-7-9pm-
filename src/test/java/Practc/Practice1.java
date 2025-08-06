@@ -1,10 +1,10 @@
-package Pract;
+package Practc;
 
 public class Practice1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         System.out.println("KGF");
+    System.out.println("KGF");
 	}
 
 }
